@@ -1,2 +1,2 @@
-# gpt2-sentiment
-Implementation of Sentiment Analysis via GPT2-Large Transformer Model
+# Prompting & Transformer-based Sentiment Analysis Models
+Implementation of Sentiment Analysis via GPT2-Large Transformer Model.
